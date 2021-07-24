@@ -20,3 +20,7 @@ The project is only tested on a Canon EOS 4000D/Rebel T100.
 This project eventually is going to get a rust rewrite to reduce performance overhead.
 
 The images get saved on to the cameras sd card as downloading them with the nodejs lib does lock up my camera. (gphoto2 cli doesnt)
+
+## Code based on
+
+The code was based on initial work over at https://github.com/balena-io-playground/balena-dslr/ but diverged rather quickly
